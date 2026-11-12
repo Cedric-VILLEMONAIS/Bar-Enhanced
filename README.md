@@ -179,7 +179,7 @@ To install **Bar Enhanced** correctly, you must clone the repository and then mo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MrVanguardia/Bar-Enhanced.git
+   git clone https://github.com/Cedric-VILLEMONAIS/Bar-Enhanced.git
    ```
 2. **Install the extension:**
    ```bash
